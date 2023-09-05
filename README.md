@@ -1,13 +1,13 @@
-<h1>Hello! I'm Gabriel Aron Arias <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
-<h2>Frontend Developer 🎨</h2>
+<h1>¡Hola! Soy Gabriel Aron Arias <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
+<h2>Desarrollador Web Full Stack 🎨</h2>
 
-### About Me
-- I am 29 years old and I am from Tucuman, Argentina.
-- I am a MERN and  full stack developer.
-- I am a self-taught and highly creative individual who seeks to learn and improve every day.
-- I enjoy working with the frontend because I want to provide the best visual experience for the users who visit my projects.
+### Acerca de mí
+- Tengo 29 años y soy de Tucumán, Argentina.
+- Soy desarrollador MERN y full stack.
+- Soy una persona autodidacta y altamente creativa que busca aprender y mejorar cada día.
+- Disfruto trabajando con el frontend porque quiero brindar la mejor experiencia visual a los usuarios que visitan mis proyectos.
 
-### Technologies
+### Tecnologias
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -18,7 +18,7 @@
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 
-### Contact Me
+### Contacto
 <a href="https://https://www.linkedin.com/in/gabriel-aron-arias"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aron%20Arias-blue?style=flat-square&logo=linkedin"></a>
 <a href="aron9377@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Aron9377@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
