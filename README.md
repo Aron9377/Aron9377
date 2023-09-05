@@ -19,7 +19,7 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 
 ### Contact Me
-<a href="www.linkedin.com/in/gabriel-aron-arias/">
+<a href="https://www.linkedin.com/in/gabriel-aron-arias/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gabriel%20Aron%20Arias-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="aron9377@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Aron9377@gmail.com-blue?style=flat-square&logo=gmail"></a>  
