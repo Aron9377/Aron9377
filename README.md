@@ -2,7 +2,7 @@
 <h2>Desarrollador Web Full Stack 🎨</h2>
 
 ### Acerca de mí
-- Tengo 30 años y soy de Tucumán, Argentina.
+- Tengo 33 años y soy de Tucumán, Argentina.
 - Soy desarrollador MERN y full stack.
 - Soy una persona autodidacta y altamente creativa que busca aprender y mejorar cada día.
 - Disfruto trabajando con el frontend porque quiero brindar la mejor experiencia visual a los usuarios que visitan mis proyectos.
